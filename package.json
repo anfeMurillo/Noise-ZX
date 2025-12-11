@@ -42,6 +42,11 @@
                 "label": "Noise Cyan",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Noise-Cyan-color-theme.json"
+            },
+            {
+                "label": "Noise Yellow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noise-Yellow-color-theme.json"
             }
         ]
     },
