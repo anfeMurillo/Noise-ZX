@@ -4,7 +4,7 @@
     "description": "Minimalistic looking based on Material Theme",
     "icon": "images/icon.png",
     "version": "2.0.1",
-    "publisher": "marqu3s",
+    "publisher": "anfeMurillo",
     "engines": {
         "vscode": "^1.37.0"
     },
@@ -94,10 +94,10 @@
     ],
     "license": "GPL-3.0-only",
     "maintainers": [
-        "Alvaro Marques <marquesramosalvaro@icloud.com>"
+        "Anfe Murillo"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/marqu3s10/Aurora-X.git"
+        "url": "https://github.com/anfeMurillo/Aurora-Y.git"
     }
 }
