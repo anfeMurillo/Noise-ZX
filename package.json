@@ -3,7 +3,7 @@
     "displayName": "NOISE theme",
     "description": "Minimalistic dark theme with 14 vibrant variants",
     "icon": "images/icon.png",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "publisher": "AndrsFelipeMurillo",
     "engines": {
         "vscode": "^1.37.0"

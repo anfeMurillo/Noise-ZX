@@ -1,5 +1,9 @@
 # Change Log
 
+## [2.1.2]
+
+- Added statusBar.noFolderBackground across all variants for consistent appearance without an open folder.
+
 ## [2.1.1]
 
 - Rename extension display name to NOISE theme.
